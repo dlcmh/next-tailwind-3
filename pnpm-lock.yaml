@@ -1923,8 +1923,8 @@ packages:
     resolution: {integrity: sha512-p3VT+cOEgxFsRRA9X4lkI1E+k2/CtnKtU4gcxyaCUreilL/vqI6CdZ3wxVUx3UOUg+gnUOQQcRI7BmSI656MYA==}
     dev: true
 
-  /regexp.prototype.flags/1.4.0:
-    resolution: {integrity: sha512-OE85RadmCYZJzYgIcWd2Qum/wJ20WwY5Z6Bfv5FeBPU46uPD01s3pe2LNoi0etmr83ibsFidC0ZiKXmPY5UpmQ==}
+  /regexp.prototype.flags/1.4.1:
+    resolution: {integrity: sha512-pMR7hBVUUGI7PMA37m2ofIdQCsomVnas+Jn5UPGAHQ+/LlwKm/aTLJHdasmHRzlfeZwHiAOaRSo2rbBDm3nNUQ==}
     engines: {node: '>= 0.4'}
     dependencies:
       call-bind: 1.0.2
@@ -2063,7 +2063,7 @@ packages:
       get-intrinsic: 1.1.1
       has-symbols: 1.0.2
       internal-slot: 1.0.3
-      regexp.prototype.flags: 1.4.0
+      regexp.prototype.flags: 1.4.1
       side-channel: 1.0.4
     dev: true
 
