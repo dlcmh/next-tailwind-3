@@ -16,6 +16,18 @@ const Home: NextPage = () => {
       <div className="bg-blue-500 group">
         <p className="text-blue-300 group-hover:text-white">Click for more</p>
       </div>
+      <div className="p-4 m-4">
+        <button
+          className="text-white font-semibold bg-blue-500 hover:bg-blue-700
+               border-blue-700 border-b hover:border-indigo-900 
+               transition-all px-6 py-2 rounded-lg"
+        >
+          Click!
+        </button>
+      </div>
+      <div className="p-4 m-4">
+        <button className="button-primary">Click!</button>
+      </div>
     </main>
   )
 }
